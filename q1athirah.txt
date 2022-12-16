@@ -1,0 +1,17 @@
+Question 1 
+i. Explain an assignment statement in programming with example.  [2 marks] 
+
+- functioned to assign obejcts to names.
+- object on the right is an expression of an object.
+- target of the statement is written after equal sign '= target'
+
+
+
+ii. Differentiate  ONE  of  the  characteristics  of  an  interpreted  language.  As  compared  to 
+compiled language. [2 marks] 
+
+
+|	interpreted language       | 		compiled language		      |
+_______________________________________________________________________________________
+
+used to generate web-based scripts | used to generate majority of software applications
